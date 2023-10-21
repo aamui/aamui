@@ -1,8 +1,9 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaron Mui.
 
+
 - 👀 I’m interested in audio ml, computer vision, and sports analytics.
-- 🌱 I’m currently getting a master in data science @ uc irvine.
-- 💞️ I’m looking to collaborate on ml projects involving audio, genre classification.
+- 🌱 Pursuing a master in data science @ uc irvine.
+- :book: Currently reading <a href="https://www.goodreads.com/en/book/show/29227774">Light Bringer by Pierce Brown</a>.
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-aaronmui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mui/) or at [aaronrubenmui@gmail.com](mailto:aaronrubenmui@gmail.com).
 
 
