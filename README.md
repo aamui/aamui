@@ -4,7 +4,7 @@
 - 👀 i’m interested in computer vision, deep learning, and 3d object detection with applications in autonomous vehicles.
 - 🌱 pursuing a master in data science @ uc irvine.
 - :book: currently reading <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris by Brandon Sanderson</a>.
-- 📫 you can reach me on [![Linkedin Badge](https://img.shields.io/badge/-aaronmui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mui/) or at [aaronrubenmui@gmail.com](mailto:armui@yuci.edu).
+- 📫 you can reach me on [![Linkedin Badge](https://img.shields.io/badge/-aaronmui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mui/) or at [armui@uci.edu](mailto:armui@uci.edu).
 
 
 #### Language and Tools:
