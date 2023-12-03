@@ -1,10 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) hey there! my name is Aaron Mui.
 
 
-- 👀 i’m interested in audio ml, computer vision, and sports analytics.
+- 👀 i’m interested in computer vision, deep learning, and 3d object detection with applications in autonomous vehicles.
 - 🌱 pursuing a master in data science @ uc irvine.
 - :book: currently reading <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris by Brandon Sanderson</a>.
-- 📫 you can reach me on [![Linkedin Badge](https://img.shields.io/badge/-aaronmui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mui/) or at [aaronrubenmui@gmail.com](mailto:aaronrubenmui@gmail.com).
+- 📫 you can reach me on [![Linkedin Badge](https://img.shields.io/badge/-aaronmui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mui/) or at [aaronrubenmui@gmail.com](mailto:armui@yuci.edu).
 
 
 #### Language and Tools:
