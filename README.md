@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) hey there! my name is Aaron Mui.
 
 
-- 👀 i’m interested in language models, computer vision, deep learning, and reasoning in computers.
+- 👀 i’m interested in natural language processing, computer vision, deep learning, and reasoning in computers.
 - 🌱 pursuing a master in data science @ uc irvine.
 - 📫 you can reach me on [![Linkedin Badge](https://img.shields.io/badge/-aaronmui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mui/) or at [armui@uci.edu](mailto:armui@uci.edu).
 
