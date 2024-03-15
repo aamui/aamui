@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) hey there! my name is Aaron Mui.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) hi! my name is Aaron Mui.
 
 
 - 👀 i’m interested in natural language processing, computer vision, deep learning, and reasoning in computers.
